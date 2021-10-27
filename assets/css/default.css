@@ -27,7 +27,7 @@ span{
     display: flex;
     flex-direction: column;
     position: relative;
-    background: url(/assets/img/header_bg.png) no-repeat;  	
+    background: url(https://bulkafire.github.io/lendalk/assets/img/header_bg.png) no-repeat;  	
     background-size: cover;
 }
 
@@ -280,7 +280,7 @@ header{
 .subscribe_block{
     display: flex;
     position: relative;  
-    background: url(assets/img/sub_background.png) no-repeat ;   
+    background: url(https://bulkafire.github.io/lendalk/assets/img/sub_background.png) no-repeat ;   
     background-size: cover;    
 }
 
@@ -416,7 +416,7 @@ header{
 .impressed_block{
     display: flex;
     position: relative;  
-    background: url(assets/img/impressed.png) no-repeat ;   
+    background: url(https://bulkafire.github.io/lendalk/assets/img/impressed.png) no-repeat ;   
     background-size: cover;    
 }
 
@@ -513,7 +513,7 @@ header{
 
 .start_project_block{
     display: flex;
-    background: url(assets/img/start.png) no-repeat;
+    background: url(https://bulkafire.github.io/lendalk/assets/img/start.png) no-repeat;
     background-size: cover;
     width: 79.3%;
     margin: 25px auto;
@@ -672,7 +672,7 @@ header{
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    background: url(assets/img/eda.png) no-repeat;
+    background: url(https://bulkafire.github.io/lendalk/assets/img/eda.png) no-repeat;
     background-size: cover;
     position: relative;
     padding: 50px;
@@ -717,7 +717,7 @@ header{
 .latest_news_block {
     display: flex;
     position: relative;
-    background: url(assets/img/black.png) no-repeat;
+    background: url(https://bulkafire.github.io/lendalk/assets/img/black.png) no-repeat;
     background-size: cover;
     flex-direction: column;
     padding: 50px 0;
@@ -895,7 +895,7 @@ header{
 .subscribe_us_block{
     display: flex;
     flex-direction: column;
-    background: url(assets/img/gorbl.png) no-repeat;
+    background: url(https://bulkafire.github.io/lendalk/assets/img/gorbl.png) no-repeat;
     background-size: cover;
     width: 100%;
     
