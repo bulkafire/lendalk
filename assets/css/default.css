@@ -27,7 +27,7 @@ span{
     display: flex;
     flex-direction: column;
     position: relative;
-    background: url(assets/img/header_bg.png) no-repeat;  	
+    background: url(/assets/img/header_bg.png) no-repeat;  	
     background-size: cover;
 }
 
